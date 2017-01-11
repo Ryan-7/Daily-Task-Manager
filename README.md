@@ -2,4 +2,4 @@
 
 An app geared towards helping accomplish your daily tasks. 
 
-Responsbile for the UI/UX too. 
+I built this before I learned the concept of common design patterns, hence the "spaghetti" code... 
